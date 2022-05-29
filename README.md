@@ -17,4 +17,3 @@ In this project, we want to explore the data to identify patterns of our custome
 - Cohort Retention Rate Analysis
 - Recency, Frequency, Monetary Value analysis
 - Customer Segmentation with KMeans
-- Feature Engineering
