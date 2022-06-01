@@ -6,6 +6,8 @@ In this project, we want to explore the data to identify patterns of our custome
 - Recency, Frequency, Monetary Value Analysis
 - Customer Segmentation
 
+Link for the jupyter notebook [Customer Analyitcs](https://github.com/firdanrastama/Customer-Analytics/blob/main/customer_analytics.ipynb)
+
 ## Dataset
 [UCI Online Retail II Data Set](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
 
